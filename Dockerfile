@@ -1,4 +1,4 @@
 FROM    tomcat:8
 
-#ADD .  /usr/local/tomcat/webapps
+ADD .  /usr/local/tomcat/webapps
 
